@@ -1,0 +1,55 @@
+/* Rule number one: Change the background for entire page*/
+body {
+    background-color: aliceblue;
+}
+
+/* Rule number two: Change the color and font size of the main heading (h1) */
+h1 {
+    color: darkslategray;
+    font-size: 300%;
+}
+
+/* Rule number three: Style the navigation links */
+nav ul {
+    list-style-type: none;
+    padding: 0% ;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: blue;
+}
+
+/* Rule number four: Change the color for h2 heading */
+h2 {
+    color: darkgoldenrod;
+}
+
+/* Rule number five: Adds pixels to the left side of the table */
+table {
+    margin-left: 20px;
+}
+/* Rule number six: Add pixels to the left side of the labels */
+.form-group label {
+    margin-left: 20px;
+}
+
+/* Rule number seven: Add pixels to the left side of the h1 text */
+h1 {
+    margin-left: 20px;
+}
+/* Rule number eight: Add pixels to the left side of the h2 text */
+h2 {
+    margin-left: 20px;
+}
+/* Rule number nine: Add pixels to the left side of p text*/
+p {
+    margin-left: 20px;
+}
+/* Rule number ten: Add pixels to the left side of image */
+img {
+    margin-left: 20px;
+}
